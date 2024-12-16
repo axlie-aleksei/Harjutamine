@@ -1,1 +1,2 @@
-
+Tulevikus saab GitHubi kasutada tehisintellekti, automatiseerimise ja andmeanalüüsi valdkonnas koostöös arendamiseks ja projektide haldamiseks, samuti uuenduslikke rakendusi majutamiseks ning integreerimiseks erinevate pilveteenuste ja tööriistadega. 
+See võimaldab arendusprotsessi kiirendada ja tagada sujuva koostöö meeskondade ja välistest kasutajatest osapoolte vahel.
