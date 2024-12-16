@@ -1,16 +1,16 @@
-GitHub — это веб-платформа для хостинга и управления проектами, использующими систему контроля версий Git. Она позволяет разработчикам хранить, отслеживать изменения в коде и работать совместно с другими людьми над программными проектами. GitHub предоставляет удобный интерфейс для работы с репозиториями (папками, содержащими код), а также предлагает функционал для совместной работы, в том числе Pull Requests (предложение изменений) и Issues (задачи/ошибки).
+GitHub on veebipõhine platvorm, mis pakub majutamist ja haldamist projektidele, mis kasutavad versioonihaldussüsteemi Git. See võimaldab arendajatel salvestada ja jälgida koodimuudatusi ning teha koostööd teiste inimestega tarkvaraprojektides. GitHub pakub mugavat liidest repositooriumitega (kaustad, mis sisaldavad koodi) töötamiseks, samuti koostööfunktsioone, sealhulgas Pull Requests (muudatuste ettepanekud) ja Issues (ülesanded/vead).
 
-Основные функции GitHub:
-Контроль версий: GitHub использует систему Git, которая позволяет отслеживать изменения в проекте, возвращаться к предыдущим версиям кода и эффективно управлять изменениями, вносимыми различными участниками.
-Совместная работа: Возможность работать в команде, вносить изменения в код, разрешать конфликты и обсуждать особенности реализации через комментарии и Issues.
-Хостинг проектов: GitHub позволяет размещать проекты онлайн, включая статические сайты, с помощью GitHub Pages.
-Интеграции и инструменты: Платформа поддерживает множество интеграций с другими сервисами для CI/CD, тестирования, анализа кода и т. д.
-Кто использует GitHub?
-GitHub используется не только разработчиками, но и профессионалами из различных областей:
+Peamised GitHubi funktsioonid:
+Versioonihaldus: GitHub kasutab Git-süsteemi, mis võimaldab jälgida projekti muudatusi, naasta varasemate koodiversioonide juurde ja tõhusalt hallata erinevate osalejate tehtud muudatusi.
+Koostöö: Võimalus töötada meeskonnas, teha muudatusi koodis, lahendada konflikte ja arutada rakendamise eripärasid kommentaaride ja Issues kaudu.
+Projektide majutamine: GitHub võimaldab projekte veebis majutada, sealhulgas staatilisi saite, kasutades GitHub Pages.
+Integreerimised ja tööriistad: Platvorm toetab paljusid integratsioone teiste teenustega CI/CD, testimise, koodianalüüsi jms jaoks.
+Kes kasutab GitHubi?
+GitHubi kasutavad mitte ainult arendajad, vaid ka professionaalid erinevates valdkondades:
 
-Программисты и разработчики — основная аудитория. Они используют GitHub для создания, управления и совместной разработки программного обеспечения.
-Команды разработки — это могут быть как небольшие стартапы, так и крупные технологические компании, работающие над проектами с открытым исходным кодом или внутренними продуктами.
-Открытые проекты — GitHub служит хранилищем для множества проектов с открытым исходным кодом, таких как популярные библиотеки и фреймворки (например, React, TensorFlow).
-Исследователи и ученые — GitHub также активно используется в научной среде для обмена кодом, данных и алгоритмами.
-Дизайнеры и специалисты по данным — хотя GitHub традиционно ассоциируется с кодом, он также активно используется для хранения и обмена дизайнами, документами и аналитическими данными.
-GitHub стал важным инструментом для всех, кто работает с кодом, и играет центральную роль в разработке программного обеспечения и сотрудничестве в глобальных проектах.
+Arendajad ja programmeerijad — peamine kasutajaskond. Nad kasutavad GitHubi tarkvara loomiseks, haldamiseks ja koostöös arendamiseks.
+Arendusmeeskonnad — need võivad olla nii väikesed idufirmad kui ka suured tehnoloogiaettevõtted, kes töötavad avatud lähtekoodiga projektide või sisemiste toodetega.
+Avatud projektid — GitHub teenib mitmesuguseid avatud lähtekoodiga projekte, nagu populaarsed raamatukogud ja raamistikud (nt React, TensorFlow).
+Teadlased ja teadlased — GitHubi kasutatakse ka teadusvaldkonnas, et vahetada koodi, andmeid ja algoritme.
+Disainerid ja andmeanalüütikud — kuigi GitHub on traditsiooniliselt seotud koodiga, kasutatakse seda aktiivselt ka disainide, dokumentide ja analüütiliste andmete salvestamiseks ja vahetamiseks.
+GitHub on muutunud oluliseks tööriistaks kõigile, kes töötavad koodiga, ja mängib keskset rolli tarkvara arendamisel ning globaalses koostöös.
